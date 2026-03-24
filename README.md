@@ -38,4 +38,4 @@ The Cross-Pod Capacity and Commitment Dashboard was built in Lovable and is full
 - **Cross-Pod Dependencies:** Dependency tracker with automatic flagging when deadlines are approaching
 - **External Commitments:** Portfolio company commitment tracker with delivery date alerts
 
-[Open the live dashboard] (https://deerfield-dashboard.lovable.app)
+(https://deerfield-dashboard.lovable.app)
