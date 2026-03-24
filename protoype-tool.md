@@ -2,6 +2,8 @@
 
 **Deerfield Intelligence: Cross-Pod Capacity and Commitment Dashboard**
 
+Link to the dashboard: https://deerfield-dashboard.lovable.app/
+
 This tool gives the Deerfield Intelligence team a single shared view of everything both pods are working on to ensure there is visibility on capacity and deadlines.
 
 Today, cross-pod coordination happens through Slack messages and gut feel. This dashboard replaces that with four simple views:
@@ -16,4 +18,4 @@ Today, cross-pod coordination happens through Slack messages and gut feel. This 
 
 All four views are fully interactive. Anyone on the team can add projects, update statuses, log dependencies, and track commitments in real time. The goal is simple: before anyone makes a new commitment, they check the dashboard first.
 
-Link to the dashboard: https://deerfield-dashboard.lovable.app/
+
