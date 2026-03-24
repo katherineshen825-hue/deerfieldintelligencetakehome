@@ -1,6 +1,6 @@
 # Deerfield Intelligence: Director of Operations Assessment
 
-**Candidate:** [Your Name]
+**Candidate:** Katherine Shen
 **Role:** Director of Operations, Deerfield Intelligence
 **Date:** March 2026
 
